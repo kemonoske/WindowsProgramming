@@ -5,9 +5,16 @@
 
 # Compiled Dynamic libraries
 *.so
-*.dylib
 
 # Compiled Static libraries
 *.lai
 *.la
 *.a
+
+# Metadata
+*.sdf
+
+# Folders
+Release/
+Debug/
+ipch/
