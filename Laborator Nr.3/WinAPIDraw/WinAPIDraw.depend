@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1361207674 source:c:\users\akira\desktop\testvis\winapidraw\element.cpp
+	"element.h"
+	<cstdio>
+	"cerc.h"
+	"segment.h"
+	<iostream>
+
+1361201948 c:\users\akira\desktop\testvis\winapidraw\element.h
+	"punct.h"
+
+1361207798 c:\users\akira\desktop\testvis\winapidraw\punct.h
+	<windows.h>
+
+1361201816 c:\users\akira\desktop\testvis\winapidraw\cerc.h
+	"punct.h"
+
+1361201754 c:\users\akira\desktop\testvis\winapidraw\segment.h
+	"punct.h"
+
+1361224786 source:c:\users\akira\desktop\testvis\winapidraw\punct.cpp
+	"punct.h"
+	<iostream>
+
+1361207672 source:c:\users\akira\desktop\testvis\winapidraw\segment.cpp
+	"segment.h"
+	<iostream>
+
+1361207674 source:c:\users\akira\desktop\testvis\winapidraw\cerc.cpp
+	"cerc.h"
+	<iostream>
+
+1361226569 source:c:\users\akira\desktop\testvis\winapidraw\main.cpp
+	<windows.h>
+	"segment.h"
+	"cerc.h"
+	"element.h"
+	<list>
+	<iostream>
+	<stdlib.h>
+	<ctime>
+	<cmath>
+

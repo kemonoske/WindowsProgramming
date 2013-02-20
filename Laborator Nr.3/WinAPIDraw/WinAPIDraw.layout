@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="cerc.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="165" topLine="17" />
+	</File>
+	<File name="cerc.h" open="0" top="0" tabpos="0">
+		<Cursor position="207" topLine="0" />
+	</File>
+	<File name="element.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="528" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="4305" topLine="116" />
+	</File>
+	<File name="punct.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="483" topLine="52" />
+	</File>
+	<File name="punct.h" open="0" top="0" tabpos="0">
+		<Cursor position="309" topLine="0" />
+	</File>
+	<File name="segment.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="425" topLine="37" />
+	</File>
+	<File name="segment.h" open="1" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
